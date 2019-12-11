@@ -9,7 +9,7 @@ The news custom widget is a component of the [MIDAS platform](http://www.midaspr
 
 - [Main homepage](http://midas.quintelligence.com/medline_demos)
 - [Main project homepage](http://www.midasproject.eu/)
-- [Examples, user stories and demonstrations](http://midas.quintelligence.com/news_demos)
+- [Examples, user stories and demonstrations](http://midas.quintelligence.com/midas-news-demos)
 - [Architecture](https://github.com/quintelligence-health/news-widget/wiki)
 - [User Guide](https://github.com/quintelligence-health/news-widget/wiki)
 - [Reference research paper](https://ailab.ijs.si/dunja/SiKDD2019/Papers/PitaCosta_Final.pdf)
