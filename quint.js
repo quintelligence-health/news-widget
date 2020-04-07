@@ -399,10 +399,10 @@ Quint.ErNews = function (opts) {
         'er-2': 'http://news.qmidas.quintelligence.com/monitoring?uri=326d51b4-e7b8-4706-908c-4710c0bf4b2b&articlesSortBy=fq&auth=oq3a1uD33T',
         'er-3': 'http://news.qmidas.quintelligence.com/monitoring?uri=a5031e80-c79d-445b-a4ed-3c891216fffd&articlesSortBy=fq&auth=oq3a1uD33T',
         'er-4': 'http://news.qmidas.quintelligence.com/monitoring?uri=e6007fa5-bb5c-4051-bdb7-365531c47008&articlesSortBy=fq&auth=oq3a1uD33T',
-        'er-5': 'http://news.qmidas.quintelligence.com/monitoring?uri=4d76c325-e8cd-40bd-b66b-4fa07c3cc26a&articlesSortBy=fq&auth=oq3a1uD33T'
-        'er-6': 'http://news.qmidas.quintelligence.com/monitoring?uri=534d178e-9551-4204-87e7-fe738705999b&articlesSortBy=fq&auth=oq3a1uD33T'
-        'er-7': 'http://news.qmidas.quintelligence.com/monitoring?uri=26c7543a-ba32-4793-a66b-e94139a24f85&articlesSortBy=fq&auth=oq3a1uD33T'
-        'er-8': 'http://news.qmidas.quintelligence.com/monitoring?uri=44c38f6f-8d16-4727-9ce9-099777c4daa2&articlesSortBy=fq&auth=oq3a1uD33T'
+        'er-5': 'http://news.qmidas.quintelligence.com/monitoring?uri=4d76c325-e8cd-40bd-b66b-4fa07c3cc26a&articlesSortBy=fq&auth=oq3a1uD33T',
+        'er-6': 'http://news.qmidas.quintelligence.com/monitoring?uri=534d178e-9551-4204-87e7-fe738705999b&articlesSortBy=fq&auth=oq3a1uD33T',
+        'er-7': 'http://news.qmidas.quintelligence.com/monitoring?uri=26c7543a-ba32-4793-a66b-e94139a24f85&articlesSortBy=fq&auth=oq3a1uD33T',
+        'er-8': 'http://news.qmidas.quintelligence.com/monitoring?uri=44c38f6f-8d16-4727-9ce9-099777c4daa2&articlesSortBy=fq&auth=oq3a1uD33T',
         'er-9': 'http://news.qmidas.quintelligence.com/monitoring?uri=e791e05d-36f5-4534-8003-c22b2e39f879&articlesSortBy=fq&auth=oq3a1uD33T'
     }
 }
